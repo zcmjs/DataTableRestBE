@@ -1,0 +1,24 @@
+INSERT INTO orders (id, name,phone,email,address,postal_zip,region,country,textx,number_range,currency)
+VALUES
+    (1,'Jeremy Hahn','1-833-167-2208','montes.nascetur@yahoo.net','422-7106 Pellentesque Ave','32425','Drenthe','Turkey','dolor sit amet, consectetuer adipiscing elit. Aliquam auctor, velit eget',93,'$76.10'),
+    (2, 'Hilel Rutledge','(322) 903-6935','venenatis.a@outlook.net','P.O. Box 572, 8230 Magna. Rd.','99550-87275','Rio Grande do Sul','Singapore','neque venenatis lacus. Etiam bibendum fermentum metus. Aenean sed pede',430,'$69.94'),
+    (3, 'Bert Estrada','(657) 631-6775','sapien.aenean@outlook.couk','800-2371 Elit. Rd.','23-33','South Jeolla','India','commodo hendrerit. Donec porttitor tellus non magna. Nam ligula elit,',493,'$139.79'),
+    (4, 'Daphne Morin','(246) 844-2489','duis@outlook.org','912-9644 Nullam Rd.','300423','Ulster','Colombia','tempor bibendum. Donec felis orci, adipiscing non, luctus sit amet,',428,'$58.34'),
+    (5, 'Rosalyn Sheppard','(311) 216-9613','sit@aol.couk','742-5913 Nec Av.','41302','Southeast Sulawesi','Nigeria','eget laoreet posuere, enim nisl elementum purus, accumsan interdum libero',196,'$37.68'),
+    (6, 'Natalie Tucker','(442) 945-2726','quam.quis.diam@hotmail.com','884-6336 Orci Road','20717','Orenburg Oblast','India','auctor ullamcorper, nisl arcu iaculis enim, sit amet ornare lectus',510,'$163.01'),
+    (7, 'Xanthus Floyd','(647) 857-3183','lorem.eu@hotmail.edu','Ap #332-4332 Ipsum St.','32572-65250','Waals-Brabant','Belgium','turpis non enim. Mauris quis turpis vitae purus gravida sagittis.',39,'$46.73'),
+    (8, 'Yvette Hoover','1-519-380-6428','ut.erat@yahoo.couk','P.O. Box 361, 8772 Elit. Rd.','24661','Rutland','South Korea','Donec vitae erat vel pede blandit congue. In scelerisque scelerisque',850,'$30.86'),
+    (9, 'Vivien Jarvis','(276) 204-8458','molestie@hotmail.net','299-9322 Sagittis Road','40611','Paraná','India','Proin nisl sem, consequat nec, mollis vitae, posuere at, velit.',432,'$132.00'),
+    (10,'Frances Shaffer','(752) 869-8633','et@protonmail.couk','483-4198 Elementum St.','16478','Maranhão','Australia','nonummy. Fusce fermentum fermentum arcu. Vestibulum ante ipsum primis in',9,'$281.71');
+INSERT INTO orders (id, name,phone,email,address,postal_zip,region,country,textx,number_range,currency)
+VALUES
+    (11, 'Gabriel Parks','(610) 483-8633','malesuada.fames@hotmail.edu','768 Nunc Ave','0178','Gangwon','Ukraine','in molestie tortor nibh sit amet orci. Ut sagittis lobortis',750,'$85.13'),
+    (12, 'Shea Oliver','(997) 776-2826','et.netus@yahoo.com','841-6950 Libero. Rd.','4272','Alabama','Colombia','est ac facilisis facilisis, magna tellus faucibus leo, in lobortis',303,'$40.34'),
+    (13, 'Judith Wise','(131) 268-2189','fames@hotmail.couk','747-8139 Scelerisque Rd.','824745','Mykolaiv oblast','Singapore','tortor at risus. Nunc ac sem ut dolor dapibus gravida.',906,'$230.63'),
+    (14, 'Iona Hewitt','(905) 555-6231','felis.orci@yahoo.net','790-9946 Quisque Ave','58013','Aquitaine','India','fames ac turpis egestas. Aliquam fringilla cursus purus. Nullam scelerisque',354,'$209.91'),
+    (15, 'Cleo Francis','1-441-421-7316','arcu.iaculis.enim@google.net','P.O. Box 907, 8354 Suspendisse Avenue','4104-5136','Quảng Ngãi','Canada','auctor odio a purus. Duis elementum, dui quis accumsan convallis,',53,'$208.05'),
+    (16, 'Ethan Wilkins','1-802-748-5665','eget.volutpat@outlook.org','Ap #460-4240 Cras St.','74-11','Berlin','New Zealand','id, blandit at, nisi. Cum sociis natoque penatibus et magnis',643,'$120.14'),
+    (17, 'Kibo Mccarthy','(442) 209-5313','egestas.duis.ac@protonmail.org','Ap #464-2325 Orci St.','222878','Dōngběi','Ireland','pellentesque, tellus sem mollis dui, in sodales elit erat vitae',817,'$79.14'),
+    (18, 'Palmer Hart','1-619-312-8212','dolor@icloud.edu','P.O. Box 414, 4704 Duis St.','19288','Agder','Philippines','elit. Etiam laoreet, libero et tristique pellentesque, tellus sem mollis',870,'$173.44'),
+    (19, 'Xavier Page','(231) 489-2441','velit.aliquam@protonmail.ca','1315 In Street','I14 4NB','Limpopo','Indonesia','metus eu erat semper rutrum. Fusce dolor quam, elementum at,',117,'$99.98'),
+    (20, 'Mark Drake','(158) 667-2855','sem.consequat.nec@protonmail.ca','Ap #476-8039 Feugiat. Av.','233855','Stockholms län','India','nunc. In at pede. Cras vulputate velit eu sem. Pellentesque',776,'$81.14');

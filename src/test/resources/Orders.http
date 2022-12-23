@@ -1,0 +1,23 @@
+### GET all orders
+GET http://localhost:8080/api/orders
+Accept: application/json
+
+### GET all lite orders
+GET http://localhost:8080/api/orders/lite
+Accept: application/json
+
+### GET all orders sorted by column with
+GET http://localhost:8080/api/orders/sort/numberRange/DESC
+Accept: application/json
+
+### GET all orders paginated per 3 rows by page and sorted by file name
+GET http://localhost:8080/api/orders/paginationAndSorting/0/3/id/DESC
+Accept: application/json
+
+### GET all orders paginated and sorted using pageable. Default page is 0. id from 20 to 15
+GET http://localhost:8080/api/orders/pageable?size=5&sort=id,desc
+Accept: application/json
+
+### GET all orders paginated and sorted using pageable. Start from page 1 id from 15 to 10
+GET http://localhost:8080/api/orders/pageable?page=1&size=5&sort=id,desc
+Accept: application/json
