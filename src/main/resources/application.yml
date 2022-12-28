@@ -3,9 +3,11 @@ spring:
     database: POSTGRESQL
     show-sql: true
     hibernate:
-      ddl-auto: update
+      ddl-auto: none
   datasource:
     url: jdbc:postgresql://localhost:5432/db
     username: admin
     password: admin
     driverClassName: org.postgresql.Driver
+#  liquibase: <--- do not need to specify the file for load data form liquibase. I used the default data
+#    change-log: db/changelog/db.changelog-master.yaml
